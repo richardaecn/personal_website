@@ -1,0 +1,7 @@
+@inproceedings{chen2014event,
+  title={Event-driven semantic concept discovery by exploiting weakly tagged internet images},
+  author={Chen*, Jiawei and Cui*, Yin and Ye, Guangnan and Liu, Dong and Chang, Shih-Fu},
+  booktitle={Proceedings of International Conference on Multimedia Retrieval},
+  year={2014},
+  organization={ACM}
+}

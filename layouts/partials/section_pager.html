@@ -1,0 +1,13 @@
+<nav>
+  <ul class="pager">
+    {{if .PrevInSection}}
+    <li class="next"><a href="{{.PrevInSection.Permalink}}">{{.PrevInSection.Title}}<span
+      aria-hidden="true">&rarr;</span></a></li>
+    {{end}}
+
+    {{if .NextInSection}}
+    <li class="previous"><a href="{{.NextInSection.Permalink}}"><span
+      aria-hidden="true">&larr;</span>{{.NextInSection.Title}}</a></li>
+    {{end}}
+  </ul>
+</nav>

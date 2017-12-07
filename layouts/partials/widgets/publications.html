@@ -1,0 +1,39 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $pubs_len := len (where $.Data.Pages "Type" "publication") }}
+
+<!-- Publications widget -->
+<div class="row">
+  <div class="col-xs-12">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ if gt $pubs_len $page.Params.count }}
+    <p class="view-all">
+      <a href="{{ "/publication/" | relLangURL }}">
+        {{ i18n "more_publications" | markdownify }}
+        <i class="fa fa-angle-double-right"></i>
+      </a>
+    </p>
+    {{ end }}
+
+    <!--begin-->
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    {{ if $page.Params.detailed_list }}
+    {{ range first $page.Params.count (where $.Data.Pages "Type" "publication") }}
+    {{ partial "publication_li_detailed" . }}
+    {{ end }}
+    {{ else }}
+
+    {{ range first $page.Params.count (where $.Data.Pages "Type" "publication") }}
+    {{ partial "publication_li_simple" . }}
+    {{ end }}
+    
+    {{ end }}
+
+    <!--<p style="font-size:20px">
+      Full list of publications are available at <a href="https://scholar.google.com/citations?user=iP5m52IAAAAJ&hl=en">Google Scholar</a>.
+    </p>-->
+
+  </div>
+</div>
