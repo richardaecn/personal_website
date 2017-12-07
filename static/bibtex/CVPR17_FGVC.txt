@@ -1,0 +1,6 @@
+@inproceedings{cui2017kernel,
+  title={Kernel pooling for convolutional neural networks},
+  author={Cui, Yin and Zhou, Feng and Wang, Jiang and Liu, Xiao and Lin, Yuanqing and Belongie, Serge},
+  booktitle={CVPR},
+  year={2017}
+}

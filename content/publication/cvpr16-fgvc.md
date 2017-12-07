@@ -16,7 +16,7 @@ url_pdf = "http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_
 url_arxiv = "https://arxiv.org/abs/1512.05227"
 url_bixtex = "/~ycui/bibtex/CVPR16_FGVC.txt"
 # url_extendedabstract = "#"
-# url_poster = "#"
+url_poster = "/~ycui/posters/CVPR16_FGVC.pdf"
 # url_slides = "#"
 # url_video = "#"
 

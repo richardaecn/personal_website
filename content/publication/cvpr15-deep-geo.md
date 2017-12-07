@@ -11,7 +11,7 @@ publication_short = "In *CVPR*, 2015"
 selected = true
 title = "Learning Deep Representations for Ground-to-Aerial Geolocalization"
 url_pdf = "http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lin_Learning_Deep_Representations_2015_CVPR_paper.pdf"
-# url_data = "#"
+url_data = "https://drive.google.com/folderview?id=0B6Udwolfp4WYUkhRYTNneUhXWEU&usp=sharing"
 # url_code = "#"
 # url_arxiv = "#"
 url_bixtex = "/~ycui/bibtex/CVPR15_Geolocalization.txt"

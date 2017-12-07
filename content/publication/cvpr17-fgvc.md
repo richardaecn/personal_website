@@ -10,13 +10,13 @@ publication = "In *The IEEE Conference on Computer Vision and Pattern Recognitio
 publication_short = "In *CVPR*, 2017"
 selected = true
 title = "Kernel Pooling for Convolutional Neural Networks"
-url_pdf = ""
+url_pdf = "http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Kernel_Pooling_for_CVPR_2017_paper.pdf"
 # url_data = "#"
 # url_code = "#"
 # url_arxiv = ""
-# url_bixtex = ""
+url_bixtex = "/~ycui/bibtex/CVPR17_FGVC.txt"
 # url_extendedabstract = "#"
-# url_poster = "#"
+url_poster = "/~ycui/posters/CVPR17_FGVC.pdf"
 # url_slides = "#"
 # url_video = "#"
 

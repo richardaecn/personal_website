@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2016-04-20T00:00:00"
+date = "2016-12-07"
 draft = false
 
 title = "Miscellaneous"
@@ -17,10 +17,11 @@ weight = 60
 ### Professional Activities
 
 * Co-organizer of ImageNet and COCO Visual Recognition Challenges Joint Workshop at ICCV'15, ECCV'16.
-* Co-organizer of Fine-Grained Visual Categorization Workshop at CVPR'17.
+* Co-organizer of Joint Workshop of the COCO and Places Challenges at ICCV'17.
+* Co-organizer of Fine-Grained Visual Categorization Workshop at CVPR'17, CVPR'18.
 * Co-organizer of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR'15.
 * Program committee of the ACM Multimedia Geotagging Workshop at MM'14.
-* Conference reviewer for CVPR'15, CVPR'16, CVPR'17; ECCV'16; ICCV'17.
+* Conference reviewer for CVPR'15, CVPR'16, CVPR'17, CVPR'18; ECCV'16; ICCV'17.
 
 
 ### Honors and Awards
@@ -34,8 +35,7 @@ weight = 60
 ### Teaching Assistant
 
 * Cornell University: CS 5785 Applied Machine Learning in Fall 2015, Fall 2016, Spring 2017
-* Columbia University: E4810 Digital Signal Processing in Fall 2013; E4830 Digital Image Processing in Spring
-2013.
+* Columbia University: E4810 Digital Signal Processing in Fall 2013; E4830 Digital Image Processing in Spring 2013.
 
 ### Courses
 

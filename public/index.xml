@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Yin Cui</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/~ycui/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -48,10 +48,10 @@
     
     <item>
       <title>Learning Deep Representations for Ground-to-Aerial Geolocalization</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/deep-geolocalization/</link>
+      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/deep-geolocalization/</guid>
+      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</guid>
       <description></description>
     </item>
     
