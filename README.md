@@ -1,5 +1,5 @@
 # personal_website
 
-http://www.cs.cornell.edu/~ycui/
+Yin Cui's personal website: http://www.cs.cornell.edu/~ycui/
 
-Created based on Hugo (https://gohugo.io/)
+Powered by the [Academic theme](https://github.com/gcushen/hugo-academic) for [Hugo] (http://gohugo.io/).
