@@ -39,7 +39,7 @@ weight = 60
 
 ### Courses
 
-* CS 6410 Advanced Topics in Machine Learning with Prof. kilian Weinberger, Spring 2016 
+* CS 6784 Advanced Topics in Machine Learning with Prof. Kilian Weinberger, Spring 2016 
 * CS 6410 Advanced Systems with Prof. Ken Birman, Fall 2015 
 * CS 6780 Advanced Machine Learning with Prof. Thorsten Joachims, Sping 2015
 * CS 6820 Analysis of Algorithms with Prof. Eva Tardos, Fall 2014
