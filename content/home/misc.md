@@ -1,6 +1,5 @@
 +++
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
+# Misc widget.
 
 date = "2016-12-07"
 draft = false
@@ -21,7 +20,7 @@ weight = 60
 * Co-organizer of Fine-Grained Visual Categorization Workshop at CVPR'17, CVPR'18.
 * Co-organizer of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR'15.
 * Program committee of the ACM Multimedia Geotagging Workshop at MM'14.
-* Conference reviewer for CVPR'15, CVPR'16, CVPR'17, CVPR'18; ECCV'16; ICCV'17.
+* Conference reviewer for CVPR'15, 16, 17, 18; ECCV'16, 18; ICCV'17.
 
 
 ### Honors and Awards

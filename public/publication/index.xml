@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>Collaborative Metric Learning</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/www17-cml/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/www17-cml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop</title>
       <link>http://www.cs.cornell.edu/~ycui/publication/cvpr16-fgvc/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
@@ -38,56 +29,11 @@
     </item>
     
     <item>
-      <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/plateclick/</link>
-      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/plateclick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Learning Deep Representations for Ground-to-Aerial Geolocalization</title>
       <link>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Object-based visual sentiment concept analysis and application</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/visual-sentiment/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/visual-sentiment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event-Driven Semantic Concept Discovery by Exploiting Weakly Tagged Internet Images</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/flickr-concept/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/flickr-concept/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building a large concept bank for representing events in video</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/concept-bank/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/concept-bank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A spatial-color layout feature for representing galaxy images</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/galaxy/</link>
-      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/galaxy/</guid>
       <description></description>
     </item>
     

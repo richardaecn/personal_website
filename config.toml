@@ -160,14 +160,19 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Research Highlights"
+  url = "#publication"
   weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "#lists"
+  weight = 3
 
 [[menu.main]]
   name = "Misc"
   url = "#misc"
-  weight = 3
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
