@@ -10,13 +10,15 @@ publication = "In *The IEEE Conference on Computer Vision and Pattern Recognitio
 publication_short = "*CVPR* 2016"
 selected = true
 title = "Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop"
+
+url_details = "publication/cvpr16-fgvc"
 url_pdf = "http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_Fine-Grained_Categorization_and_CVPR_2016_paper.pdf"
 # url_data = "#"
 # url_code = "#"
 url_arxiv = "https://arxiv.org/abs/1512.05227"
-url_bixtex = "/~ycui/bibtex/CVPR16_FGVC.txt"
+url_bixtex = "bibtex/CVPR16_FGVC.txt"
 # url_extendedabstract = "#"
-url_poster = "/~ycui/posters/CVPR16_FGVC.pdf"
+url_poster = "posters/CVPR16_FGVC.pdf"
 # url_slides = "#"
 # url_video = "#"
 

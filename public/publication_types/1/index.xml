@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Yin Cui</title>
-    <link>http://www.cs.cornell.edu/~ycui/publication_types/1/index.xml</link>
+    <link>http://www.cs.cornell.edu/~ycui/publication_types/1/</link>
     <description>Recent content in 1 on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Yin Cui</copyright>
-    <atom:link href="/~ycui/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.cs.cornell.edu/~ycui/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Kernel Pooling for Convolutional Neural Networks</title>

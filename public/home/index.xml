@@ -2,13 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Yin Cui</title>
-    <link>http://www.cs.cornell.edu/~ycui/home/index.xml</link>
+    <link>http://www.cs.cornell.edu/~ycui/home/</link>
     <description>Recent content in Homes on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Yin Cui</copyright>
     <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~ycui/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.cs.cornell.edu/~ycui/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.cs.cornell.edu/~ycui/home/about/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/home/about/</guid>
+      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a 4th-year Ph.D. student in the Department of Computer Science at Cornell University and Cornell Tech. I am very fortunate to be a member of SE(3) Computer Vision Group led by Professor Serge Belongie. My research interests lie in the field of Computer Vision and Machine Learning. My recent projects focus on using deep learning for fine-grained visual categorization and similarity metric learning.</description>
+    </item>
+    
+    <item>
+      <title>Research Highlights</title>
+      <link>http://www.cs.cornell.edu/~ycui/home/publication/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/home/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.cs.cornell.edu/~ycui/home/lists/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/home/lists/</guid>
+      <description>2018  Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018. [Data]
+ Grant Van Horn, Oisin Mac Aodha, Yang Song, Yin Cui, Chen Sun, Alex Shepard, Pietro Perona, Serge Belongie. The iNaturalist Species Classification and Detection Dataset. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018.
+ Yin Cui, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>http://www.cs.cornell.edu/~ycui/home/misc/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/home/misc/</guid>
+      <description>Professional Activities  Co-organizer of ImageNet and COCO Visual Recognition Challenges Joint Workshop at ICCV&amp;rsquo;15, ECCV&amp;rsquo;16. Co-organizer of Joint Workshop of the COCO and Places Challenges at ICCV&amp;rsquo;17. Co-organizer of Fine-Grained Visual Categorization Workshop at CVPR&amp;rsquo;17, CVPR&amp;rsquo;18. Co-organizer of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR&amp;rsquo;15. Program committee of the ACM Multimedia Geotagging Workshop at MM&amp;rsquo;14. Conference reviewer for CVPR&amp;rsquo;15, 16, 17, 18; ECCV&amp;rsquo;16, 18; ICCV&amp;rsquo;17.  Honors and Awards  McMullen Fellowship (2014-2015) Edwin Howard Armstrong Memorial Award (2014) Wei Family Private Foundation Special Scholarship (2013) National Scholarship (2010)  Teaching Assistant  Cornell University: CS 5785 Applied Machine Learning in Fall 2015, Fall 2016, Spring 2017 Columbia University: E4810 Digital Signal Processing in Fall 2013; E4830 Digital Image Processing in Spring 2013.</description>
+    </item>
     
   </channel>
 </rss>

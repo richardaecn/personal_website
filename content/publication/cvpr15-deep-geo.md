@@ -10,13 +10,15 @@ publication = "In *The IEEE Conference on Computer Vision and Pattern Recognitio
 publication_short = "*CVPR* 2015 (**Oral**)"
 selected = true
 title = "Learning Deep Representations for Ground-to-Aerial Geolocalization"
+
+url_details = "publication/cvpr15-deep-geo"
 url_pdf = "http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lin_Learning_Deep_Representations_2015_CVPR_paper.pdf"
 url_data = "https://drive.google.com/folderview?id=0B6Udwolfp4WYUkhRYTNneUhXWEU&usp=sharing"
 # url_code = "#"
 # url_arxiv = "#"
-url_bixtex = "/~ycui/bibtex/CVPR15_Geolocalization.txt"
-url_extendedabstract = "/~ycui/papers/CVPR15_Geolocalization_Abstract.pdf"
-url_poster = "/~ycui/posters/CVPR15_DeepGeo.pdf"
+url_bixtex = "bibtex/CVPR15_Geolocalization.txt"
+url_extendedabstract = "papers/CVPR15_Geolocalization_Abstract.pdf"
+url_poster = "posters/CVPR15_DeepGeo.pdf"
 # url_slides = "#"
 # url_video = "#"
 
