@@ -17,7 +17,7 @@ weight = 40
 
 - **Yin Cui**, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. **Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_. [<a href="https://github.com/visipedia/inat_comp">Data</a>]
 
-- Grant Van Horn, Oisin Mac Aodha, Yang Song, **Yin Cui**, Chen Sun, Alex Shepard, Pietro Perona, Serge Belongie. **The iNaturalist Species Classification and Detection Dataset**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
+- Grant Van Horn, Oisin Mac Aodha, Yang Song, **Yin Cui**, Chen Sun, Alex Shepard, Hartwig Adam, Pietro Perona, Serge Belongie. **The iNaturalist Species Classification and Detection Dataset**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
 
 - **Yin Cui**, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie. **Learning to Evaluate Image Captioning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
 
