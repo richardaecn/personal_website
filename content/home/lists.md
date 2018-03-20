@@ -17,7 +17,7 @@ weight = 40
 
 - **Yin Cui**, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. **Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
 
-- Grant Van Horn, Oisin Mac Aodha, Yang Song, **Yin Cui**, Chen Sun, Alex Shepard, Hartwig Adam, Pietro Perona, Serge Belongie. **The iNaturalist Species Classification and Detection Dataset**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_. [<a href="https://github.com/visipedia/inat_comp">Data</a>]
+- Grant Van Horn, Oisin Mac Aodha, Yang Song, **Yin Cui**, Chen Sun, Alex Shepard, Hartwig Adam, Pietro Perona, Serge Belongie. **The iNaturalist Species Classification and Detection Dataset**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_ (**Spotlight**). [<a href="https://github.com/visipedia/inat_comp">Data</a>]
 
 - **Yin Cui**, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie. **Learning to Evaluate Image Captioning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
 
@@ -35,7 +35,7 @@ weight = 40
 
 - Longqi Yang, **Yin Cui**, Fan Zhang, John P Pollak, Serge Belongie, Deborah Estrin. **PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface**. _ACM International on Conference on Information and Knowledge Management (**CIKM**) 2015_. [<a href="papers/CIKM15_PlateClick.pdf">PDF</a>] [<a href="data/recipe9k.zip">Data</a>] [<a href="slides/CIKM15_PlateClick.pdf">Slides</a>]
 
-- Tsung-Yi Lin, **Yin Cui**, Serge Belongie, James Hays. **Learning Deep Representations for Ground-to-Aerial Geolocalization**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2015_. [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lin_Learning_Deep_Representations_2015_CVPR_paper.pdf">PDF</a>] [<a href="https://drive.google.com/folderview?id=0B6Udwolfp4WYUkhRYTNneUhXWEU&usp=sharing">Data</a>] [<a href="papers/CVPR15_Geolocalization_Abstract.pdf">Extended Abstract</a>] [<a href="posters/CVPR15_DeepGeo.pdf">Poster</a>]
+- Tsung-Yi Lin, **Yin Cui**, Serge Belongie, James Hays. **Learning Deep Representations for Ground-to-Aerial Geolocalization**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2015_ (**Oral**). [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lin_Learning_Deep_Representations_2015_CVPR_paper.pdf">PDF</a>] [<a href="https://drive.google.com/folderview?id=0B6Udwolfp4WYUkhRYTNneUhXWEU&usp=sharing">Data</a>] [<a href="papers/CVPR15_Geolocalization_Abstract.pdf">Extended Abstract</a>] [<a href="posters/CVPR15_DeepGeo.pdf">Poster</a>]
 
 ### 2014
 
