@@ -61,6 +61,11 @@
   {{ i18n "btn_project" }}
 </a>
 {{ end }}
+{{ with $.Params.url_research_blog }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
+  Research Blog
+</a>
+{{ end }}
 {{ range $.Params.url_custom }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ .url | absURL }}">
   {{ .name }}

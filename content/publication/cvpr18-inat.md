@@ -23,6 +23,7 @@ url_bixtex = "bibtex/CVPR18_iNat.txt"
 # url_poster = "posters/CVPR17_FGVC.pdf"
 # url_slides = "#"
 # url_video = "#"
+url_research_blog = 'https://research.googleblog.com/2018/03/introducing-inaturalist-2018-challenge.html'
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
