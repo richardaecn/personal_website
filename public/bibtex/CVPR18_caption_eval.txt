@@ -1,0 +1,6 @@
+@inproceedings{cvpr18_inat,
+  title={Learning to Evaluate Image Captioning},
+  author={Cui, Yin and Yang, Guandao and Veit, Andreas and Huang, Xun and Belongie, Serge},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2018}
+}

@@ -1,0 +1,6 @@
+@inproceedings{cui2018fgvc,
+  title={Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning},
+  author={Cui, Yin and Song, Yang and Sun, Chen and Howard, Andrew and Belongie, Serge},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2018}
+}

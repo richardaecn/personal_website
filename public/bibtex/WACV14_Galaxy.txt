@@ -1,6 +1,6 @@
 @inproceedings{cui2014spatial,
   title={A Spatial-Color Layout Feature for Content-based Galaxy Image Retrieval},
   author={Cui, Yin and Xiang, Yongzhou and Rong, Kun and Feris, Rogerio and Cao, Liangliang},
-  booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  booktitle={Winter Conference on Applications of Computer Vision (WACV)},
   year={2014}
 }
