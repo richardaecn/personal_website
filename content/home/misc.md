@@ -15,12 +15,14 @@ weight = 60
 
 ### Professional Activities
 
+* Co-founder of Common Visual Data Foundation (CVDF), 2016 - Present.
 * Co-organizer of ImageNet and COCO Visual Recognition Challenges Joint Workshop at ICCV'15, ECCV'16.
 * Co-organizer of Joint Workshop of the COCO and Places Challenges at ICCV'17.
+* Co-organizer of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV'18.
 * Co-organizer of Fine-Grained Visual Categorization Workshop at CVPR'17, CVPR'18.
 * Co-organizer of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR'15.
 * Program committee of the ACM Multimedia Geotagging Workshop at MM'14.
-* Conference reviewer for CVPR'15, 16, 17, 18; ECCV'16, 18; ICCV'17.
+* Conference reviewer for CVPR'15, 16, 17, 18; ECCV'16, 18; ICCV'17; NIPS'18.
 
 
 ### Honors and Awards
