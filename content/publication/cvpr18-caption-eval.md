@@ -20,7 +20,7 @@ url_code = "https://github.com/richardaecn/cvpr18-caption-eval"
 # url_arxiv = ""
 url_bixtex = "bibtex/CVPR18_caption_eval.txt"
 # url_extendedabstract = "#"
-# url_poster = "posters/CVPR17_FGVC.pdf"
+url_poster = "posters/CVPR18_caption_eval.pdf"
 # url_slides = "#"
 # url_video = "#"
 
