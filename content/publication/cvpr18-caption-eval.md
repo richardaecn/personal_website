@@ -13,11 +13,11 @@ publication_short = "*CVPR* 2018"
 selected = true
 title = "Learning to Evaluate Image Captioning"
 
-url_details = "publication/cvpr18-fgvc"
+url_details = "publication/cvpr18-caption-eval"
 url_pdf = "https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1501.pdf"
 # url_data = "#"
 url_code = "https://github.com/richardaecn/cvpr18-caption-eval"
-# url_arxiv = ""
+url_arxiv = "http://arxiv.org/abs/1806.06422"
 url_bixtex = "bibtex/CVPR18_caption_eval.txt"
 # url_extendedabstract = "#"
 url_poster = "posters/CVPR18_caption_eval.pdf"
