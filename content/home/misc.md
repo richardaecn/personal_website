@@ -16,21 +16,21 @@ weight = 60
 ### Professional Activities
 
 * Co-founder of Common Visual Data Foundation (CVDF), 2016 - Present.
-* Co-organizer of ImageNet and COCO Visual Recognition Challenges Joint Workshop at ICCV'15, ECCV'16.
-* Co-organizer of Joint Workshop of the COCO and Places Challenges at ICCV'17.
-* Co-organizer of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV'18.
-* Co-organizer of Fine-Grained Visual Categorization Workshop at CVPR'17, CVPR'18.
-* Co-organizer of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR'15.
-* Program committee of the ACM Multimedia Geotagging Workshop at MM'14.
-* Conference reviewer for CVPR'15, 16, 17, 18; ECCV'16, 18; ICCV'17; NIPS'18.
+* Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV'15, ECCV'16.
+* Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV'17.
+* Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV'18.
+* Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR'17, CVPR'18.
+* Organizing Committee of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR'15.
+* Program Committee of the ACM Multimedia Geotagging Workshop at MM'14.
+* Reviewer for CVPR'15, 16, 17, 18; ECCV'16, 18; ICCV'17; NIPS'18.
 
 
 ### Honors and Awards
 
-* McMullen Fellowship (2014-2015)
-* Edwin Howard Armstrong Memorial Award (2014)
-* Wei Family Private Foundation Special Scholarship (2013)
-* National Scholarship (2010)
+* McMullen Fellowship (Sep 2014)
+* Edwin Howard Armstrong Memorial Award (May 2014)
+* Wei Family Private Foundation Special Scholarship (Oct 2013)
+* National Scholarship (Oct 2010)
 
 
 ### Teaching Assistant
