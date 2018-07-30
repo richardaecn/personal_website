@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Evaluation metrics for image captioning face two challenges. Firstly, commonly used metrics such as CIDEr, METEOR, ROUGE and BLEU often do not correlate well with human judgments. Secondly, each metric has well known blind spots to pathological caption constructions, and rule-based metrics lack provisions to repair such blind spots once identified. For example, the newly proposed SPICE correlates well with human judgments, but fails to capture the syntactic structure of a sentence. To address these two challenges, we propose a novel learning based discriminative evaluation metric that is directly trained to distinguish between human and machine-generated captions. In addition, we further propose a data augmentation scheme to explicitly incorporate pathological transformations as negative examples during training. The proposed metric is evaluated with three kinds of robustness tests and its correlation with human judgments. Extensive experiments show that the proposed data augmentation scheme not only makes our metric more robust toward several pathological transformations, but also improves its correlation with human judgments. Our metric outperforms other metrics on both caption level human correlation in Flickr 8k and system level human correlation in COCO. The proposed approach could be served as a learning based evaluation metric that is complementary to existing rule-based metrics.">
+  <meta name="description" content="It is expensive to label images with 3D structure or precise camera pose. Yet, this is precisely the kind of annotation required to train single-view 3D reconstruction models. In contrast, unlabeled images or images with just category labels are easy to acquire, but few current models can use this weak supervision. We present a unified framework that can combine both types of supervision: a small amount of camera pose annotations are used to enforce pose-invariance and view-point consistency, and unlabeled images combined with an adversarial loss are used to enforce the realism of rendered, generated models. We use this unified framework to measure the impact of each form of supervision in three paradigms: semi-supervised, multi-task, and transfer learning. We show that with a combination of these ideas, we can train single-view reconstruction models that improve up to 7 points in performance (AP) when using only 1% pose annotated training data.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/">
+  <link rel="alternate" hreflang="en-us" href="http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/">
 
   
 
@@ -84,24 +84,24 @@
   <link rel="icon" type="image/png" href="/~ycui/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/~ycui/img/icon-192.png">
 
-  <link rel="canonical" href="http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/">
+  <link rel="canonical" href="http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yin Cui">
-  <meta property="og:url" content="http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/">
-  <meta property="og:title" content="Learning to Evaluate Image Captioning | Yin Cui">
-  <meta property="og:description" content="Evaluation metrics for image captioning face two challenges. Firstly, commonly used metrics such as CIDEr, METEOR, ROUGE and BLEU often do not correlate well with human judgments. Secondly, each metric has well known blind spots to pathological caption constructions, and rule-based metrics lack provisions to repair such blind spots once identified. For example, the newly proposed SPICE correlates well with human judgments, but fails to capture the syntactic structure of a sentence. To address these two challenges, we propose a novel learning based discriminative evaluation metric that is directly trained to distinguish between human and machine-generated captions. In addition, we further propose a data augmentation scheme to explicitly incorporate pathological transformations as negative examples during training. The proposed metric is evaluated with three kinds of robustness tests and its correlation with human judgments. Extensive experiments show that the proposed data augmentation scheme not only makes our metric more robust toward several pathological transformations, but also improves its correlation with human judgments. Our metric outperforms other metrics on both caption level human correlation in Flickr 8k and system level human correlation in COCO. The proposed approach could be served as a learning based evaluation metric that is complementary to existing rule-based metrics.">
+  <meta property="og:url" content="http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/">
+  <meta property="og:title" content="Learning Single-View 3D Reconstruction with Limited Pose Supervision | Yin Cui">
+  <meta property="og:description" content="It is expensive to label images with 3D structure or precise camera pose. Yet, this is precisely the kind of annotation required to train single-view 3D reconstruction models. In contrast, unlabeled images or images with just category labels are easy to acquire, but few current models can use this weak supervision. We present a unified framework that can combine both types of supervision: a small amount of camera pose annotations are used to enforce pose-invariance and view-point consistency, and unlabeled images combined with an adversarial loss are used to enforce the realism of rendered, generated models. We use this unified framework to measure the impact of each form of supervision in three paradigms: semi-supervised, multi-task, and transfer learning. We show that with a combination of these ideas, we can train single-view reconstruction models that improve up to 7 points in performance (AP) when using only 1% pose annotated training data.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-05-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-07-28T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-06-01T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-09-01T00:00:00&#43;00:00">
   
 
-  <title>Learning to Evaluate Image Captioning | Yin Cui</title>
+  
+
+  <title>Learning Single-View 3D Reconstruction with Limited Pose Supervision | Yin Cui</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -221,21 +221,21 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Learning to Evaluate Image Captioning</h1>
+    <h1 itemprop="name">Learning Single-View 3D Reconstruction with Limited Pose Supervision</h1>
     <span class="pub-authors" itemprop="author">
       
-      <strong>Yin Cui</strong>, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie
+      Guandao Yang, <strong>Yin Cui</strong>, Serge Belongie, Bharath Hariharan
       
     </span>
     
 
     
-    <img src="/~ycui/img/paper/CVPR18_caption_eval_detailed.png" class="pub-banner" itemprop="image" style="margin: 10px">
+    <img src="/~ycui/img/paper/ECCV18_3DRecon.png" class="pub-banner" itemprop="image" style="margin: 10px">
     
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Evaluation metrics for image captioning face two challenges. Firstly, commonly used metrics such as CIDEr, METEOR, ROUGE and BLEU often do not correlate well with human judgments. Secondly, each metric has well known blind spots to pathological caption constructions, and rule-based metrics lack provisions to repair such blind spots once identified. For example, the newly proposed SPICE correlates well with human judgments, but fails to capture the syntactic structure of a sentence. To address these two challenges, we propose a novel learning based discriminative evaluation metric that is directly trained to distinguish between human and machine-generated captions. In addition, we further propose a data augmentation scheme to explicitly incorporate pathological transformations as negative examples during training. The proposed metric is evaluated with three kinds of robustness tests and its correlation with human judgments. Extensive experiments show that the proposed data augmentation scheme not only makes our metric more robust toward several pathological transformations, but also improves its correlation with human judgments. Our metric outperforms other metrics on both caption level human correlation in Flickr 8k and system level human correlation in COCO. The proposed approach could be served as a learning based evaluation metric that is complementary to existing rule-based metrics.</p>
+    <p class="pub-abstract" itemprop="text">It is expensive to label images with 3D structure or precise camera pose. Yet, this is precisely the kind of annotation required to train single-view 3D reconstruction models. In contrast, unlabeled images or images with just category labels are easy to acquire, but few current models can use this weak supervision. We present a unified framework that can combine both types of supervision: a small amount of camera pose annotations are used to enforce pose-invariance and view-point consistency, and unlabeled images combined with an adversarial loss are used to enforce the realism of rendered, generated models. We use this unified framework to measure the impact of each form of supervision in three paradigms: semi-supervised, multi-task, and transfer learning. We show that with a combination of these ideas, we can train single-view reconstruction models that improve up to 7 points in performance (AP) when using only 1% pose annotated training data.</p>
     
 
     
@@ -264,7 +264,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9"><em>CVPR</em> 2018</div>
+          <div class="col-xs-12 col-sm-9"><em>ECCV</em> 2018</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -278,7 +278,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            June, 2018
+            September, 2018
           </div>
         </div>
       </div>
@@ -298,32 +298,16 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval">
+<a class="btn btn-primary btn-outline" href="http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon">
   Details
 </a>
 
 
-<a class="btn btn-primary btn-outline" href="http://arxiv.org/abs/1806.06422">
-  arXiv
-</a>
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/richardaecn/cvpr18-caption-eval">
-  Code
-</a>
 
-
-<a class="btn btn-primary btn-outline" href="http://www.cs.cornell.edu/~ycui/bibtex/CVPR18_caption_eval.txt">
-  BibTeX
-</a>
-
-
-
-<a class="btn btn-primary btn-outline" href="http://www.cs.cornell.edu/~ycui/posters/CVPR18_caption_eval.pdf">
-  Poster
-</a>
 
 
 

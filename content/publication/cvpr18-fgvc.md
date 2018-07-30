@@ -14,10 +14,10 @@ selected = true
 title = "Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning"
 
 url_details = "publication/cvpr18-fgvc"
-url_pdf = "https://vision.cornell.edu/se3/wp-content/uploads/2018/03/FGVC_CVPR_2018.pdf"
+url_arxiv = "https://arxiv.org/abs/1806.06193"
+# url_pdf = "https://vision.cornell.edu/se3/wp-content/uploads/2018/03/FGVC_CVPR_2018.pdf"
 url_data = "https://github.com/visipedia/inat_comp/tree/master/2017"
 url_code = "https://github.com/richardaecn/cvpr18-inaturalist-transfer"
-url_arxiv = "https://arxiv.org/abs/1806.06193"
 url_bixtex = "bibtex/CVPR18_FGVC.txt"
 # url_extendedabstract = "#"
 url_poster = "posters/CVPR18_FGVC.pdf"

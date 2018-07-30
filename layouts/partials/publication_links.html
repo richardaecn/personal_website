@@ -11,6 +11,11 @@
   Details
 </a>
 {{ end }}
+{{ with $.Params.url_arxiv }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
+  arXiv
+</a>
+{{ end }}
 {{ with $.Params.url_pdf }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
   {{ i18n "btn_pdf" }}
@@ -24,11 +29,6 @@
 {{ with $.Params.url_code }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
   {{ i18n "btn_code" }}
-</a>
-{{ end }}
-{{ with $.Params.url_arxiv }}
-<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
-  arXiv
 </a>
 {{ end }}
 {{ with $.Params.url_bixtex }}
@@ -59,11 +59,6 @@
 {{ with $.Params.url_project }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
   {{ i18n "btn_project" }}
-</a>
-{{ end }}
-{{ with $.Params.url_research_blog }}
-<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
-  Research Blog
 </a>
 {{ end }}
 {{ range $.Params.url_custom }}

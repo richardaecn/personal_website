@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Yin Cui</copyright>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.cs.cornell.edu/~ycui/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Single-View 3D Reconstruction with Limited Pose Supervision</title>
+      <link>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</title>

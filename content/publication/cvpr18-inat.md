@@ -14,16 +14,21 @@ selected = true
 title = "The iNaturalist Species Classification and Detection Dataset"
 
 url_details = "publication/cvpr18-inat"
-url_pdf = "https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1916.pdf"
+url_arxiv = "https://arxiv.org/abs/1707.06642"
+# url_pdf = "https://vision.cornell.edu/se3/wp-content/uploads/2018/03/1916.pdf"
 url_data = "https://github.com/visipedia/inat_comp"
 # url_code = "#"
-url_arxiv = "https://arxiv.org/abs/1707.06642"
 url_bixtex = "bibtex/CVPR18_iNat.txt"
 # url_extendedabstract = "#"
-# url_poster = "posters/CVPR17_FGVC.pdf"
+# url_poster = ""
 # url_slides = "#"
 # url_video = "#"
-url_research_blog = 'https://research.googleblog.com/2018/03/introducing-inaturalist-2018-challenge.html'
+[[url_custom]]
+name = "Google AI Blog"
+url = "https://ai.googleblog.com/2018/03/introducing-inaturalist-2018-challenge.html"
+[[url_custom]]
+name = "TechCrunch"
+url = "https://techcrunch.com/2018/06/21/species-identifying-ai-gets-a-boost-from-images-snapped-by-citizen-naturalists/"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

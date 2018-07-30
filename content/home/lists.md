@@ -15,11 +15,15 @@ weight = 40
 
 ### 2018
 
-- **Yin Cui**, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. **Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
+- Longqi Yang, **Yin Cui**, Yuan Xuan, Chenyang Wang, Serge Belongie, Deborah Estrin. **Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback**. _ACM Conference on Recommender Systems (**RecSys**) 2018_.
 
-- Grant Van Horn, Oisin Mac Aodha, Yang Song, **Yin Cui**, Chen Sun, Alex Shepard, Hartwig Adam, Pietro Perona, Serge Belongie. **The iNaturalist Species Classification and Detection Dataset**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_ (**Spotlight**). [<a href="https://github.com/visipedia/inat_comp">Data</a>]
+- Guandao Yang, **Yin Cui**, Serge Belongie, Bharath Hariharan. **Learning Single-View 3D Reconstruction with Limited Pose Supervision**. _European Conference on Computer Vision (**ECCV**) 2018_.
 
-- **Yin Cui**, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie. **Learning to Evaluate Image Captioning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_.
+- **Yin Cui**, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. **Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_. [<a href="https://arxiv.org/abs/1806.06193">arXiv</a>]  [<a href="https://github.com/visipedia/inat_comp/tree/master/2017">Data</a>] [<a href="https://github.com/richardaecn/cvpr18-inaturalist-transfer">Code</a>] [<a href="posters/CVPR18_FGVC.pdf">Poster</a>]
+
+- **Yin Cui**, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie. **Learning to Evaluate Image Captioning**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_. [<a href="http://arxiv.org/abs/1806.06422">arXiv</a>] [<a href="https://github.com/richardaecn/cvpr18-caption-eval">Code</a>] [<a href="posters/CVPR18_caption_eval.pdf">Poster</a>]
+
+- Grant Van Horn, Oisin Mac Aodha, Yang Song, **Yin Cui**, Chen Sun, Alex Shepard, Hartwig Adam, Pietro Perona, Serge Belongie. **The iNaturalist Species Classification and Detection Dataset**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018_ (**Spotlight**). [<a href="https://arxiv.org/abs/1707.06642">arXiv</a>] [<a href="https://github.com/visipedia/inat_comp">Data</a>] [<a href="https://ai.googleblog.com/2018/03/introducing-inaturalist-2018-challenge.html">Google AI Blog</a>] [<a href="https://techcrunch.com/2018/06/21/species-identifying-ai-gets-a-boost-from-images-snapped-by-citizen-naturalists/">TechCrunch</a>]
 
 ### 2017
 
