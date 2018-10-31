@@ -18,7 +18,7 @@
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.cs.cornell.edu/~ycui/home/about/</guid>
-      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a 4th-year Ph.D. candidate in the Department of Computer Science at Cornell University and Cornell Tech. I am very fortunate to be a member of SE(3) Computer Vision Group led by Professor Serge Belongie. My research interests lie in the field of Computer Vision and Machine Learning. For more information, please refer to my Curriculum Vitae.</description>
+      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a 5th-year Ph.D. candidate in the Department of Computer Science at Cornell University and Cornell Tech. I am very fortunate to be a member of SE(3) Computer Vision Group led by Professor Serge Belongie. My research interests lie in the field of Computer Vision and Machine Learning. For more information, please refer to my Curriculum Vitae.</description>
     </item>
     
     <item>
@@ -36,9 +36,9 @@
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.cs.cornell.edu/~ycui/home/lists/</guid>
-      <description>2018  Longqi Yang, Yin Cui, Yuan Xuan, Chenyang Wang, Serge Belongie, Deborah Estrin. Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback. ACM Conference on Recommender Systems (RecSys) 2018.
- Guandao Yang, Yin Cui, Serge Belongie, Bharath Hariharan. Learning Single-View 3D Reconstruction with Limited Pose Supervision. European Conference on Computer Vision (ECCV) 2018.
- Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie. Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning.</description>
+      <description>2018  Longqi Yang, Yin Cui, Yuan Xuan, Chenyang Wang, Serge Belongie, Deborah Estrin. Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback. ACM Conference on Recommender Systems (RecSys) 2018. [PDF] [Code] [Slides]
+ Guandao Yang, Yin Cui, Serge Belongie, Bharath Hariharan. Learning Single-View 3D Reconstruction with Limited Pose Supervision. European Conference on Computer Vision (ECCV) 2018. [PDF] [Code] [Poster]
+ Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie.</description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.cs.cornell.edu/~ycui/home/misc/</guid>
-      <description>Professional Activities  Co-founder of Common Visual Data Foundation (CVDF), 2016 - Present. Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV&amp;rsquo;15, ECCV&amp;rsquo;16. Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV&amp;rsquo;17. Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV&amp;rsquo;18. Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR&amp;rsquo;17, CVPR&amp;rsquo;18. Organizing Committee of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR&amp;rsquo;15.</description>
+      <description>Professional Activities  Co-founder of Common Visual Data Foundation (CVDF), 2016 - Present. Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV 2015, ECCV 2016. Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV 2017. Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV 2018. Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR 2017, CVPR 2018. Organizing Committee of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR 2015.</description>
     </item>
     
   </channel>

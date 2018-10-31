@@ -1,0 +1,6 @@
+@inproceedings{eccv18_3drecon,
+  title={Learning Single-View 3D Reconstruction with Limited Pose Supervision},
+  author={Yang, Guandao and Cui, Yin and Belongie, Serge and Hariharan, Bharath},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2018}
+}

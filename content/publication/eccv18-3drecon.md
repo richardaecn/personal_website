@@ -14,13 +14,13 @@ selected = true
 title = "Learning Single-View 3D Reconstruction with Limited Pose Supervision"
 
 url_details = "publication/eccv18-3drecon"
-# url_pdf = ""
-# url_data = ""
-# url_code = ""
 # url_arxiv = ""
-# url_bixtex = ""
+url_pdf = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.pdf"
+# url_data = ""
+url_code = "https://github.com/stevenygd/3d-recon"
+url_bixtex = "bibtex/ECCV18_3drecon.txt"
 # url_extendedabstract = "#"
-# url_poster = ""
+url_poster = "posters/ECCV18_3drecon.pdf"
 # url_slides = "#"
 # url_video = "#"
 
