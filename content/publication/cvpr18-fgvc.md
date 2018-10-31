@@ -23,6 +23,9 @@ url_bixtex = "bibtex/CVPR18_FGVC.txt"
 url_poster = "posters/CVPR18_FGVC.pdf"
 # url_slides = "#"
 # url_video = "#"
+[[url_custom]]
+name = "Tensorflow Hub"
+url = "https://tfhub.dev/google/inaturalist/inception_v3/feature_vector/1"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

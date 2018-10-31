@@ -24,6 +24,9 @@ url_bixtex = "bibtex/CVPR18_iNat.txt"
 # url_slides = "#"
 # url_video = "#"
 [[url_custom]]
+name = "Tensorflow Object Detection API"
+url = "https://github.com/tensorflow/models/tree/master/research/object_detection#sep-17-2018"
+[[url_custom]]
 name = "Google AI Blog"
 url = "https://ai.googleblog.com/2018/03/introducing-inaturalist-2018-challenge.html"
 [[url_custom]]
