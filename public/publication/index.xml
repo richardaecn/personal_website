@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Class-Balanced Loss Based on Effective Number of Samples</title>
+      <link>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Single-View 3D Reconstruction with Limited Pose Supervision</title>
       <link>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>

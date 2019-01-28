@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Yin Cui</copyright>
-    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.cs.cornell.edu/~ycui/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Class-Balanced Loss Based on Effective Number of Samples</title>
+      <link>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Building a large concept bank for representing events in video</title>
