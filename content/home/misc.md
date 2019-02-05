@@ -22,7 +22,7 @@ weight = 60
 * Organizing Committee of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR 2015.
 * Program Committee of the ACM Multimedia Geotagging Workshop at MM 2014.
 * Member of Common Visual Data Foundation (CVDF), 2016 - Present.
-* Reviewer for CVPR 2015, 2016, 2017, 2018, 2019; ECCV 2016, 2018; ICCV 2017; NIPS 2018; ICML 2019.
+* Reviewer for CVPR 2015, 2016, 2017, 2018, 2019; ECCV 2016, 2018; ICCV 2017, 2019; NeurIPS 2018, 2019; ICML 2019.
 
 
 ### Selected Honors
