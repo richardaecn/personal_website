@@ -1,6 +1,6 @@
-baseurl = "http://www.cs.cornell.edu/~ycui/"
+baseurl = ""
 title = "Yin Cui"
-copyright = "&copy; 2017 Yin Cui"
+copyright = "&copy; 2019 Yin Cui"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   avatar = "portrait.jpg"
   email = "ycui@cs.cornell.edu"
-  address = "111 8th Avenue #1202, New York, NY 10011"
+  address = "2 W Loop Rd, New York, NY 10044"
   office_hours = ""
   phone = ""
   skype = ""

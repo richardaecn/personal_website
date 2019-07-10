@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Yin Cui</title>
-    <link>http://www.cs.cornell.edu/~ycui/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Yin Cui</copyright>
+    <copyright>&amp;copy; 2019 Yin Cui</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.cs.cornell.edu/~ycui/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Class-Balanced Loss Based on Effective Number of Samples</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</link>
+      <link>/publication/cvpr19-classbalancedloss/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</guid>
+      <guid>/publication/cvpr19-classbalancedloss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Single-View 3D Reconstruction with Limited Pose Supervision</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</link>
+      <link>/publication/eccv18-3drecon/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</guid>
+      <guid>/publication/eccv18-3drecon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr18-fgvc/</link>
+      <link>/publication/cvpr18-fgvc/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr18-fgvc/</guid>
+      <guid>/publication/cvpr18-fgvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Evaluate Image Captioning</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/</link>
+      <link>/publication/cvpr18-caption-eval/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/</guid>
+      <guid>/publication/cvpr18-caption-eval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The iNaturalist Species Classification and Detection Dataset</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr18-inat/</link>
+      <link>/publication/cvpr18-inat/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr18-inat/</guid>
+      <guid>/publication/cvpr18-inat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kernel Pooling for Convolutional Neural Networks</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr17-fgvc/</link>
+      <link>/publication/cvpr17-fgvc/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr17-fgvc/</guid>
+      <guid>/publication/cvpr17-fgvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr16-fgvc/</link>
+      <link>/publication/cvpr16-fgvc/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr16-fgvc/</guid>
+      <guid>/publication/cvpr16-fgvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Deep Representations for Ground-to-Aerial Geolocalization</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</link>
+      <link>/publication/cvpr15-deep-geo/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</guid>
+      <guid>/publication/cvpr15-deep-geo/</guid>
       <description></description>
     </item>
     

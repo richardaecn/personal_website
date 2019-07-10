@@ -13,7 +13,7 @@ weight = 40
 
 +++
 ### 2019
-- **Yin Cui**, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie. **Class-Balanced Loss Based on Effective Number of Samples**. _arXiv:1901.05555 (**arXiv preprint**) 2019_. [<a href="https://arxiv.org/abs/1901.05555">arXiv</a>] [<a href="https://github.com/richardaecn/class-balanced-loss">Code</a>]
+- **Yin Cui**, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie. **Class-Balanced Loss Based on Effective Number of Samples**. _IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019_. [<a href="https://arxiv.org/abs/1901.05555">arXiv</a>] [<a href="https://github.com/richardaecn/class-balanced-loss">Code</a>]
 
 ### 2018
 

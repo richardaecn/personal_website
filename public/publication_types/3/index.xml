@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Yin Cui</title>
-    <link>http://www.cs.cornell.edu/~ycui/publication_types/3/</link>
+    <link>/publication_types/3/</link>
     <description>Recent content in 3 on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Yin Cui</copyright>
-    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Yin Cui</copyright>
+    <lastBuildDate>Sat, 29 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.cs.cornell.edu/~ycui/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Class-Balanced Loss Based on Effective Number of Samples</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Building a large concept bank for representing events in video</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/concept-bank/</link>
+      <link>/deprecated_publication/concept-bank/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/concept-bank/</guid>
+      <guid>/deprecated_publication/concept-bank/</guid>
       <description></description>
     </item>
     

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Yin Cui</title>
-    <link>http://www.cs.cornell.edu/~ycui/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Yin Cui</copyright>
+    <copyright>&amp;copy; 2019 Yin Cui</copyright>
     <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.cs.cornell.edu/~ycui/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.cs.cornell.edu/~ycui/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a 5th-year Ph.D. candidate in the Department of Computer Science at Cornell University and Cornell Tech. I am very fortunate to be a member of SE(3) Computer Vision Group led by Professor Serge Belongie. My research interests lie in the field of Computer Vision and Machine Learning. For more information, please refer to my Curriculum Vitae.</description>
     </item>
     
     <item>
       <title>Research Highlights</title>
-      <link>http://www.cs.cornell.edu/~ycui/home/publication/</link>
+      <link>/home/publication/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/home/publication/</guid>
+      <guid>/home/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://www.cs.cornell.edu/~ycui/home/lists/</link>
+      <link>/home/lists/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/home/lists/</guid>
-      <description>2019  Yin Cui, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie. Class-Balanced Loss Based on Effective Number of Samples. arXiv:1901.05555 (arXiv preprint) 2019. [arXiv] [Code]  2018  Longqi Yang, Yin Cui, Yuan Xuan, Chenyang Wang, Serge Belongie, Deborah Estrin. Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback. ACM Conference on Recommender Systems (RecSys) 2018. [PDF] [Code] [Slides]
- Guandao Yang, Yin Cui, Serge Belongie, Bharath Hariharan. Learning Single-View 3D Reconstruction with Limited Pose Supervision.</description>
+      <guid>/home/lists/</guid>
+      <description>2019  Yin Cui, Menglin Jia, Tsung-Yi Lin, Yang Song, Serge Belongie. Class-Balanced Loss Based on Effective Number of Samples. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. [arXiv] [Code]  2018  Longqi Yang, Yin Cui, Yuan Xuan, Chenyang Wang, Serge Belongie, Deborah Estrin. Unbiased Offline Recommender Evaluation for Missing-Not-At-Random Implicit Feedback. ACM Conference on Recommender Systems (RecSys) 2018. [PDF] [Code] [Slides]
+ Guandao Yang, Yin Cui, Serge Belongie, Bharath Hariharan.</description>
     </item>
     
     <item>
       <title>Miscellaneous</title>
-      <link>http://www.cs.cornell.edu/~ycui/home/misc/</link>
+      <link>/home/misc/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/home/misc/</guid>
+      <guid>/home/misc/</guid>
       <description>Professional Activities  Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV 2015, ECCV 2016. Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV 2017. Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV 2018. Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR 2017, CVPR 2018, CVPR 2019. Organizing Committee of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR 2015.</description>
     </item>
     

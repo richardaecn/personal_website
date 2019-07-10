@@ -2,137 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yin Cui on Yin Cui</title>
-    <link>http://www.cs.cornell.edu/~ycui/</link>
+    <link>/</link>
     <description>Recent content in Yin Cui on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Yin Cui</copyright>
+    <copyright>&amp;copy; 2019 Yin Cui</copyright>
     <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~ycui/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Class-Balanced Loss Based on Effective Number of Samples</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</link>
+      <link>/publication/cvpr19-classbalancedloss/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/2019-classbalancedloss/</guid>
+      <guid>/publication/cvpr19-classbalancedloss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Single-View 3D Reconstruction with Limited Pose Supervision</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</link>
+      <link>/publication/eccv18-3drecon/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/eccv18-3drecon/</guid>
+      <guid>/publication/eccv18-3drecon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr18-fgvc/</link>
+      <link>/publication/cvpr18-fgvc/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr18-fgvc/</guid>
+      <guid>/publication/cvpr18-fgvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Evaluate Image Captioning</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/</link>
+      <link>/publication/cvpr18-caption-eval/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr18-caption-eval/</guid>
+      <guid>/publication/cvpr18-caption-eval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The iNaturalist Species Classification and Detection Dataset</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr18-inat/</link>
+      <link>/publication/cvpr18-inat/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr18-inat/</guid>
+      <guid>/publication/cvpr18-inat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kernel Pooling for Convolutional Neural Networks</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr17-fgvc/</link>
+      <link>/publication/cvpr17-fgvc/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr17-fgvc/</guid>
+      <guid>/publication/cvpr17-fgvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Metric Learning</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/www17-cml/</link>
+      <link>/deprecated_publication/www17-cml/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/www17-cml/</guid>
+      <guid>/deprecated_publication/www17-cml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr16-fgvc/</link>
+      <link>/publication/cvpr16-fgvc/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr16-fgvc/</guid>
+      <guid>/publication/cvpr16-fgvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/plateclick/</link>
+      <link>/deprecated_publication/plateclick/</link>
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/plateclick/</guid>
+      <guid>/deprecated_publication/plateclick/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Deep Representations for Ground-to-Aerial Geolocalization</title>
-      <link>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</link>
+      <link>/publication/cvpr15-deep-geo/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/publication/cvpr15-deep-geo/</guid>
+      <guid>/publication/cvpr15-deep-geo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Object-based visual sentiment concept analysis and application</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/visual-sentiment/</link>
+      <link>/deprecated_publication/visual-sentiment/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/visual-sentiment/</guid>
+      <guid>/deprecated_publication/visual-sentiment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event-Driven Semantic Concept Discovery by Exploiting Weakly Tagged Internet Images</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/flickr-concept/</link>
+      <link>/deprecated_publication/flickr-concept/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/flickr-concept/</guid>
+      <guid>/deprecated_publication/flickr-concept/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building a large concept bank for representing events in video</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/concept-bank/</link>
+      <link>/deprecated_publication/concept-bank/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/concept-bank/</guid>
+      <guid>/deprecated_publication/concept-bank/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A spatial-color layout feature for representing galaxy images</title>
-      <link>http://www.cs.cornell.edu/~ycui/deprecated_publication/galaxy/</link>
+      <link>/deprecated_publication/galaxy/</link>
       <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.cs.cornell.edu/~ycui/deprecated_publication/galaxy/</guid>
+      <guid>/deprecated_publication/galaxy/</guid>
       <description></description>
     </item>
     

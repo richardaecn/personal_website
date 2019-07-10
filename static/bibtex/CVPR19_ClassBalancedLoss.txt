@@ -1,0 +1,6 @@
+@inproceedings{cui2019classbalancedloss,
+  title={Class-Balanced Loss Based on Effective Number of Samples},
+  author={Cui, Yin and Jia, Menglin and Lin, Tsung-Yi and Song, Yang and Belongie, Serge},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2019}
+}
