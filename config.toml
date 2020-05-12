@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Yin Cui"
-copyright = "&copy; 2019 Yin Cui"
+copyright = "&copy; 2020 Yin Cui"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,12 +20,12 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Yin Cui"
-  role = "Ph.D. Student"
-  organization = "Cornell University"
+  role = "Research Scientist"
+  organization = "Google"
   organization_url = ""
   avatar = "portrait.jpg"
-  email = "ycui@cs.cornell.edu"
-  address = "2 W Loop Rd, New York, NY 10044"
+  email = "richardaecn@gmail.com"
+  address = "Mountain View, CA"
   office_hours = ""
   phone = ""
   skype = ""
@@ -122,10 +122,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  # [[params.social]]
-  #  icon = "envelope"
-  #  icon_pack = "fa"
-  #  link = "mailto:ycui@cs.cornell.edu"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:richardaecn@gmail.com"
 
   [[params.social]]
     icon = "google-scholar"

@@ -3,7 +3,7 @@
 
 <!-- About widget -->
 <div class="row">
-  <div class="col-xs-12 col-md-3">
+  <div class="col-xs-12 col-md-4">
     <div id="profile">
 
       {{ with $.Site.Params.avatar }}
@@ -14,16 +14,23 @@
 
       <div class="portrait-title">
         <h2 itemprop="name">{{ $.Site.Params.name }}</h2>
-        <h3 itemprop="jobTitle">{{ $.Site.Params.role }}</h3>
-        {{ if $.Site.Params.organization }}
-        <h3 itemprop="worksFor">
-          {{ with $.Site.Params.organization_url }}<a href="{{ . }}" target="_blank">{{ end }}
-          {{ $.Site.Params.organization }}
-          {{ if $.Site.Params.organization_url }}</a>{{ end }}
+        <h3 itemprop="jobTitle">{{ $.Site.Params.role }} at  
+          {{ if $.Site.Params.organization }}
+            {{ with $.Site.Params.organization_url }}<a href="{{ . }}" target="_blank">{{ end }}
+            {{ $.Site.Params.organization }}
+            {{ if $.Site.Params.organization_url }}</a>{{ end }}
         </h3>
         {{ end }}
       </div>
+    </div>
+  </div>
 
+  <div class="col-xs-12 col-md-8" itemprop="description">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    <div id="profile">
       <ul class="social-icon" aria-hidden="true">
         {{ range $.Site.Params.social }}
         {{ $pack := or .icon_pack "fa" }}
@@ -35,47 +42,6 @@
         {{ end }}
       </ul>
     </div>
-  </div>
-
-  <div class="col-xs-12 col-md-9" itemprop="description">
-
-    {{ $page.Content }}
-
-    <div class="panel panel-primary" style="vertical-align:middle; margin-top:20px; border-color:#85C1E9; border-width:1px">
-      <div class="panel-heading" style="color:#313131; background-color:#85C1E9; border-color:#85C1E9; border-width:1px">
-        <h3 class="panel-title" style="font-size:18px">Updates</h3>
-      </div>
-      <div style="overflow:auto; height:250px;">
-      <div class="panel-body">
-        <p style="font-size:16px">
-          [2019-02] Paper on class-balanced loss accepted by <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>!
-          </br>[2018-12] I am co-organizing <a href="https://sites.google.com/view/fgvc6/home">the 6th Workshop on Fine-Grained Visual Categorization (FGVC6)</a> in CVPR 2019. 
-          </br>[2018-07] Paper on few-shot single-view 3d reconstruction accepted by <a href="https://eccv2018.org/">ECCV 2018</a>!
-          </br>[2018-04]  I am co-organizing <a href="http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html">Joint COCO and Mapilary Recognition Challenge Workshop</a> in ECCV 2018.
-          </br>[2018-02] 3 papers accepted by <a href="http://cvpr2018.thecvf.com/">CVPR 2018</a>!
-          </br>[2018-01] I will intern at <a href="https://research.google.com/">Google Research</a> this summer.
-          </br>[2017-12] I am co-organizing <a href="https://sites.google.com/view/fgvc5/home">the 5th Workshop on Fine-Grained Visual Categorization (FGVC5)</a> in CVPR 2018.
-          <!-- </br>[2017-11] Submitted 3 Papers to CVPR 2018. -->
-          </br>[2017-07] Presentation of our winning entry in <a href="https://www.kaggle.com/c/inaturalist-challenge-at-fgvc-2017">iNaturalist Kaggle Challenge</a> at CVPR FGVC4 Workshop. <a href="/~ycui/slides/inat_presentation.pdf">Slides</a>
-          </br>[2017-03] Paper on fine-grained categorization accepted by <a href="http://cvpr2017.thecvf.com/">CVPR 2017</a>!
-          </br>[2017-01] I will intern at <a href="https://research.google.com/">Google Research</a> this summer.
-          </br>[2016-12] I am co-organizing <a href="https://sites.google.com/view/fgvc4/home">the 4​th​ Workshop on Fine-Grained Visual Categorization (FGVC4)</a> in CVPR 2017.
-          </br>[2016-10] Introducing: <a href="http://www.cvdfoundation.org/">the Common Visual Data Foundation (CVDF)</a>. The mission is to enable open community-driven research through the creation of academic datasets and competitions. I am fortunate to be part of CVDF.
-          <!-- </br>[2016-10] <a href="http://mscoco.org/dataset/#detections-leaderboard">Results of the 2016 COCO Challenges</a> are released and winners will present at our <a href="http://image-net.org/challenges/ilsvrc+coco2016">ECCV 2016 Workshop</a>. Congratulations to winners and thanks to all participants! -->
-          </br>[2016-04] I am co-organizing <a href="http://image-net.org/challenges/ilsvrc+coco2016">ImageNet and COCO Joint Challenges</a> in ECCV 2016.
-          </br>[2016-03] I will intern at <a href="http://research.baidu.com/institute-of-deep-learning/">Baidu Institute of Deep Learning</a> this summer.
-          </br>[2016-03] Paper on fine-grained categorization and dataset bootstrapping accepted by <a href="http://cvpr2016.thecvf.com/">CVPR 2016</a>!
-          <!-- </br>[2015-12] <a href="http://mscoco.org/dataset/#detections-leaderboard">Results of the 2015 COCO Challenges</a> are released and winners will present at our <a href="http://image-net.org/challenges/ilsvrc+mscoco2015">ICCV 2015 Workshop</a>. Congratulations to winners and thanks to all participants! -->
-          </br>[2015-06] I am co-organizing <a href="http://image-net.org/challenges/ilsvrc+mscoco2015">ImageNet and COCO Joint Challenges</a> in ICCV 2015.
-          </br>[2015-04] I am co-organizing <a href="http://mscoco.org/dataset/#captions-challenge2015">COCO Captioning Challenge</a> in <a href="http://lsun.cs.princeton.edu">LSUN workshop</a> in CVPR 2015.
-          </br>[2015-03] I will be an intern at <a href="http://www.nec-labs.com/research-departments/media-analytics/media-analytics-home">Media Analytics Department, NEC Labs</a> this summer.
-          </br>[2015-03] Paper on geolocalization with deep learing accepted by <a href="http://www.pamitc.org/cvpr15/">CVPR 2015</a> for oral presentation!
-          </br>[2014-08] Start my Ph.D. at Cornell Computer Science!
-        </p>
-        </div>
-      </div>
-    </div>
-
   </div>
 
 </div>

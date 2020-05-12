@@ -1,0 +1,6 @@
+@inproceedings{du2020spinenet,
+  title={SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization},
+  author={Du, Xianzhi and Lin, Tsung-Yi and Jin, Pengchong and Ghiasi, Golnaz and Tan, Mingxing and Cui, Yin and Le, Quoc V and Song, Xiaodan},
+  booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
+}

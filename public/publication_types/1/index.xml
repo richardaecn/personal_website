@@ -6,11 +6,20 @@
     <description>Recent content in 1 on Yin Cui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Yin Cui</copyright>
-    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2020 Yin Cui</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization</title>
+      <link>/publication/cvpr20-spinenet/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cvpr20-spinenet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Class-Balanced Loss Based on Effective Number of Samples</title>
@@ -67,15 +76,6 @@
     </item>
     
     <item>
-      <title>Collaborative Metric Learning</title>
-      <link>/deprecated_publication/www17-cml/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/deprecated_publication/www17-cml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop</title>
       <link>/publication/cvpr16-fgvc/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
@@ -85,47 +85,11 @@
     </item>
     
     <item>
-      <title>PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface</title>
-      <link>/deprecated_publication/plateclick/</link>
-      <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/deprecated_publication/plateclick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Learning Deep Representations for Ground-to-Aerial Geolocalization</title>
       <link>/publication/cvpr15-deep-geo/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/cvpr15-deep-geo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Object-based visual sentiment concept analysis and application</title>
-      <link>/deprecated_publication/visual-sentiment/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/deprecated_publication/visual-sentiment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event-Driven Semantic Concept Discovery by Exploiting Weakly Tagged Internet Images</title>
-      <link>/deprecated_publication/flickr-concept/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/deprecated_publication/flickr-concept/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A spatial-color layout feature for representing galaxy images</title>
-      <link>/deprecated_publication/galaxy/</link>
-      <pubDate>Mon, 24 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/deprecated_publication/galaxy/</guid>
       <description></description>
     </item>
     

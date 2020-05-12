@@ -20,7 +20,7 @@ url_arxiv = "https://arxiv.org/abs/1901.05555"
 url_code = "https://github.com/richardaecn/class-balanced-loss"
 url_bixtex = "bibtex/CVPR19_ClassBalancedLoss.txt"
 # url_extendedabstract = "#"
-# url_poster = "posters/.pdf"
+url_poster = "posters/CVPR19_Class-Balanced.pdf"
 # url_slides = "#"
 # url_video = "#"
 

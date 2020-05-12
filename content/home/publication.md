@@ -2,7 +2,7 @@
 # Research widget.
 # Note: this widget will only display if `content/publication/` contains publications.
 
-date = "2018-04-06T00:00:00"
+date = "2020-05-12"
 draft = false
 
 title = "Research Highlights"

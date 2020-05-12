@@ -75,8 +75,8 @@ ul, ol, dl {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
-  margin-bottom: .5rem;
-  line-height: 1.25;
+  margin-bottom: 1rem;
+  line-height: 1.0;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
@@ -254,9 +254,9 @@ blockquote p:last-child {
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
   width: 200px;
-  height: 250px;
+  height: 200px;
   margin: 0 auto;
-  border-radius: 5%;
+  border-radius: 15%;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -266,14 +266,14 @@ blockquote p:last-child {
   font-size: 1.5em;
   font-weight: 300;
   color: #000000;
-  margin: 15px 0 10px 0;
+  margin: 10px 0 5px 0;
 }
 
 #profile .portrait-title h3 {
-  font-size: 1.05em;
+  font-size: 1.0em;
   font-weight: 300;
   color: #999999;
-  margin: 0px 0 10px 0;
+  margin: 0px 0 0px 0;
 }
 
 #profile ul.social-icon {
@@ -282,7 +282,7 @@ blockquote p:last-child {
   flex-wrap: wrap;
   list-style: none;
   padding: 0;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 #profile .social-icon li {
