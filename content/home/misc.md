@@ -18,8 +18,9 @@ weight = 60
 * Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV 2015, ECCV 2016
 * Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV 2017
 * Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV 2018, ICCV 2019
-* Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR 2017, CVPR 2018, CVPR 2019
-* Organizing Committee of Large-scale Scene Understanding Workshop (MS COCO Captioning Challenge) at CVPR 2015
+* Organizing Committee of Joint COCO and LVIS Recognition Challenge Workshop at ECCV 2020
+* Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR 2017, CVPR 2018
+* Organizing Committee of Large-scale Scene Understanding Workshop (COCO Captioning Challenge) at CVPR 2015
 * Member of Common Visual Data Foundation (CVDF), 2016 - Present
 * Reviewer for CVPR, ICCV, ECCV, NeurIPS and ICML
 

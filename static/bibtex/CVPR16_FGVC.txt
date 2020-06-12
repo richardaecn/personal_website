@@ -1,6 +1,0 @@
-@inproceedings{cui2016fine,
-  title={Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning with Humans in the Loop},
-  author={Cui, Yin and Zhou, Feng and Lin, Yuanqing and Belongie, Serge},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2016 IEEE Conference on},
-  year={2016}
-}

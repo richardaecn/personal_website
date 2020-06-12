@@ -1,6 +1,0 @@
-@article{cui2014building,
-  title={Building a large concept bank for representing events in video},
-  author={Cui, Yin and Liu, Dong and Chen, Jiawei and Chang, Shih-Fu},
-  journal={arXiv preprint arXiv:1403.7591},
-  year={2014}
-}

@@ -29,15 +29,6 @@
     </item>
     
     <item>
-      <title>Learning Single-View 3D Reconstruction with Limited Pose Supervision</title>
-      <link>/publication/eccv18-3drecon/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/eccv18-3drecon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</title>
       <link>/publication/cvpr18-fgvc/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -47,38 +38,11 @@
     </item>
     
     <item>
-      <title>Learning to Evaluate Image Captioning</title>
-      <link>/publication/cvpr18-caption-eval/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cvpr18-caption-eval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The iNaturalist Species Classification and Detection Dataset</title>
       <link>/publication/cvpr18-inat/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/cvpr18-inat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kernel Pooling for Convolutional Neural Networks</title>
-      <link>/publication/cvpr17-fgvc/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cvpr17-fgvc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop</title>
-      <link>/publication/cvpr16-fgvc/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cvpr16-fgvc/</guid>
       <description></description>
     </item>
     
