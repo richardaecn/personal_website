@@ -30,32 +30,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</title>
-      <link>/publication/cvpr18-fgvc/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cvpr18-fgvc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The iNaturalist Species Classification and Detection Dataset</title>
-      <link>/publication/cvpr18-inat/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cvpr18-inat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Deep Representations for Ground-to-Aerial Geolocalization</title>
-      <link>/publication/cvpr15-deep-geo/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cvpr15-deep-geo/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

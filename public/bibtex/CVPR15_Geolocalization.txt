@@ -1,6 +1,0 @@
-@InProceedings{Lin_2015_CVPR,
-  title = {Learning Deep Representations for Ground-to-Aerial Geolocalization},
-  author = {Lin, Tsung-Yi and Cui, Yin and Belongie, Serge and Hays, James},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year = {2015}
-}

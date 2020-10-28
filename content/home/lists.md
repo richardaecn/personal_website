@@ -1,7 +1,7 @@
 +++
 # Publications widget.
 
-date = "2020-05-12"
+date = "2020-10-28"
 draft = false
 
 title = "Publications"
@@ -14,9 +14,15 @@ weight = 40
 +++
 ### 2020
 
-- Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, **Yin Cui**, Quoc V Le, Xiaodan Song. **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization**. _Computer Vision and Pattern Recognition (**CVPR**) 2020_. [<a href="https://arxiv.org/abs/1912.05027">arXiv</a>] [<a href="https://github.com/tensorflow/tpu/tree/master/models/official/detection">Code</a>]
+- Rui Qian\*, Tianjian Meng\*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, **Yin Cui** (\*equal contribution). **Spatiotemporal Contrastive Video Representation Learning**. _arXiv preprint arXiv:2008.03800 2020_. [<a href="https://arxiv.org/abs/2008.03800">arXiv</a>]
 
-- Menglin Jia\*, Mengyun Shi\*, Mikhail Sirotenko\*, **Yin Cui**\*, Claire Cardie, Bharath Hariharan, Hartwig Adam, Serge Belongie (\*equal contribution). **Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset**. _arXiv preprint arXiv:2004.12276 2020_. [<a href="https://fashionpedia.github.io/home/index.html">Website</a>] [<a href="https://arxiv.org/abs/2004.12276">arXiv</a>] [<a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">Kaggle Challenge</a>]
+- Barret Zoph, Golnaz Ghiasi, Tsung-Yi Lin, **Yin Cui**, Hanxiao Liu, Ekin D. Cubuk, Quoc V. Le. **Rethinking Pre-training and Self-training**. _Advances in Neural Information Processing Systems (**NeurIPS**) 2020_ (**Oral**). [<a href="https://arxiv.org/abs/2006.06882">arXiv</a>] [<a href="https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training">Code</a>]
+
+- Menglin Jia\*, Mengyun Shi\*, Mikhail Sirotenko\*, **Yin Cui**\*, Claire Cardie, Bharath Hariharan, Hartwig Adam, Serge Belongie (\*equal contribution). **Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset**. _European Conference on Computer Vision (**ECCV**) 2020_ (**Oral**). [<a href="https://fashionpedia.github.io/home/index.html">Website</a>] [<a href="https://arxiv.org/abs/2004.12276">arXiv</a>] [<a href="https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/fashionpedia">Code</a>] [<a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">Kaggle Challenge</a>]
+
+- Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, **Yin Cui**, Mingxing Tan, Quoc V. Le, Xiaodan Song. **Efficient Scale-Permuted Backbone with Learned Resource Distribution**. _European Conference on Computer Vision (**ECCV**) 2020_. [<a href="https://arxiv.org/abs/2010.11426">arXiv</a>]
+
+- Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, **Yin Cui**, Quoc V. Le, Xiaodan Song. **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization**. _Computer Vision and Pattern Recognition (**CVPR**) 2020_. [<a href="https://arxiv.org/abs/1912.05027">arXiv</a>] [<a href="https://github.com/tensorflow/tpu/tree/master/models/official/detection">Code</a>] [<a href="https://ai.googleblog.com/2020/06/spinenet-novel-architecture-for-object.html">Google AI Blog</a>]
 
 - Xuhong Li, Yves Grandvalet, Franck Davoine, Jingchun Cheng, **Yin Cui**, Hang Zhang, Serge Belongie, Yi-Hsuan Tsai, Ming-Hsuan Yang. **Transfer learning in computer vision tasks: Remember where you come from**. _Image and Vision Computing 2020_. [<a href="https://www.sciencedirect.com/science/article/pii/S0262885619304469">Link</a>] 
 

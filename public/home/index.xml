@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Yin Cui</copyright>
-    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,16 @@
     <item>
       <title>About</title>
       <link>/home/about/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a Research Scientist at Google. Before joining Google, I received my Ph.D. in Computer Science from Cornell University and Cornell Tech in 2019, advised by Professor Serge Belongie. My research interests lie in the field of Computer Vision and Machine Learning.</description>
+      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a Research Scientist at Google. Before joining Google, I received my Ph.D. in Computer Science from Cornell University and Cornell Tech in 2019, advised by Professor Serge Belongie. My research interests are Computer Vision and Machine Learning.</description>
     </item>
     
     <item>
-      <title>Research Highlights</title>
+      <title>Recent Research</title>
       <link>/home/publication/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/home/publication/</guid>
       <description></description>
@@ -33,17 +33,18 @@
     <item>
       <title>Publications</title>
       <link>/home/lists/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/home/lists/</guid>
-      <description>2020  Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V Le, Xiaodan Song. SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization. Computer Vision and Pattern Recognition (CVPR) 2020. [arXiv] [Code]
- Menglin Jia*, Mengyun Shi*, Mikhail Sirotenko*, Yin Cui*, Claire Cardie, Bharath Hariharan, Hartwig Adam, Serge Belongie (*equal contribution). Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset. arXiv preprint arXiv:2004.12276 2020. [Website] [arXiv] [Kaggle Challenge]</description>
+      <description>2020  Rui Qian*, Tianjian Meng*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui (*equal contribution). Spatiotemporal Contrastive Video Representation Learning. arXiv preprint arXiv:2008.03800 2020. [arXiv]
+ Barret Zoph, Golnaz Ghiasi, Tsung-Yi Lin, Yin Cui, Hanxiao Liu, Ekin D. Cubuk, Quoc V. Le. Rethinking Pre-training and Self-training. Advances in Neural Information Processing Systems (NeurIPS) 2020 (Oral). [arXiv] [Code]
+ Menglin Jia*, Mengyun Shi*, Mikhail Sirotenko*, Yin Cui*, Claire Cardie, Bharath Hariharan, Hartwig Adam, Serge Belongie (*equal contribution).</description>
     </item>
     
     <item>
       <title>Miscellaneous</title>
       <link>/home/misc/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/home/misc/</guid>
       <description> Professional Activities  Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV 2015, ECCV 2016 Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV 2017 Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV 2018, ICCV 2019 Organizing Committee of Joint COCO and LVIS Recognition Challenge Workshop at ECCV 2020 Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR 2017, CVPR 2018 Organizing Committee of Large-scale Scene Understanding Workshop (COCO Captioning Challenge) at CVPR 2015 Member of Common Visual Data Foundation (CVDF), 2016 - Present Reviewer for CVPR, ICCV, ECCV, NeurIPS and ICML  Selected Honors  McMullen Fellowship (Sep 2014) Edwin Howard Armstrong Memorial Award (May 2014) Wei Family Private Foundation Special Scholarship (Oct 2013) National Scholarship (Oct 2010)  </description>

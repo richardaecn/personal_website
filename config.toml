@@ -160,7 +160,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Research Highlights"
+  name = "Recent Research"
   url = "#publication"
   weight = 2
 

@@ -1,7 +1,7 @@
 +++
 # Misc widget.
 
-date = "2020-05-12"
+date = "2020-10-28"
 draft = false
 
 title = "Miscellaneous"

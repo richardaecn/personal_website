@@ -1,6 +1,0 @@
-@inproceedings{cvpr18_inat,
-  title={The iNaturalist Species Classification and Detection Dataset},
-  author={Van Horn, Grant and Mac Aodha, Oisin and Song, Yang and Cui, Yin and Sun, Chen and Shepard, Alex and Adam, Hartwig and Perona, Pietro and Belongie, Serge},
-  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2018}
-}
