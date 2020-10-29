@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Yin Cui</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Yin Cui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Yin Cui</copyright>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a Research Scientist at Google. Before joining Google, I received my Ph.D. in Computer Science from Cornell University and Cornell Tech in 2019, advised by Professor Serge Belongie. My research interests are Computer Vision and Machine Learning.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/lists/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/home/lists/</guid>
+      <description>2020  Rui Qian*, Tianjian Meng*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui. Spatiotemporal Contrastive Video Representation Learning. arXiv:2008.03800 [arXiv]
+ Barret Zoph*, Golnaz Ghiasi*, Tsung-Yi Lin*, Yin Cui, Hanxiao Liu, Ekin D. Cubuk, Quoc V. Le. Rethinking Pre-training and Self-training. NeurIPS 2020 (Oral) [arXiv] [Code]
+ Menglin Jia*, Mengyun Shi*, Mikhail Sirotenko*, Yin Cui*, Claire Cardie, Bharath Hariharan, Hartwig Adam, Serge Belongie. Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset.</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>/home/misc/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/home/misc/</guid>
+      <description> Professional Activities  Organizing Committee of ImageNet and COCO Visual Recognition Workshop at ICCV 2015, ECCV 2016 Organizing Committee of Joint Workshop of the COCO and Places Challenges at ICCV 2017 Organizing Committee of Joint COCO and Mapilary Recognition Challenge Workshop at ECCV 2018, ICCV 2019 Organizing Committee of Joint COCO and LVIS Recognition Challenge Workshop at ECCV 2020 Organizing Committee of Fine-Grained Visual Categorization Workshop at CVPR 2017, CVPR 2018 Organizing Committee of Large-scale Scene Understanding Workshop (COCO Captioning Challenge) at CVPR 2015 Member of Common Visual Data Foundation (CVDF), 2016 - Present Reviewer for CVPR, ICCV, ECCV, NeurIPS and ICML  Selected Honors  McMullen Fellowship (Sep 2014) Edwin Howard Armstrong Memorial Award (May 2014) Wei Family Private Foundation Special Scholarship (Oct 2013) National Scholarship (Oct 2010)  </description>
+    </item>
+    
+  </channel>
+</rss>
