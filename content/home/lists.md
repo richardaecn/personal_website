@@ -14,6 +14,8 @@ weight = 40
 +++
 ### 2020
 
+- Golnaz Ghiasi\*, **Yin Cui**\*, Aravind Srinivas\*, Rui Qian, Tsung-Yi Lin, Ekin D. Cubuk, Quoc V. Le, Barret Zoph. Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation. _arXiv:2012.07177_ [<a href="https://arxiv.org/abs/2012.07177">arXiv</a>]
+
 - Rui Qian\*, Tianjian Meng\*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, **Yin Cui**. Spatiotemporal Contrastive Video Representation Learning. _arXiv:2008.03800_ [<a href="https://arxiv.org/abs/2008.03800">arXiv</a>]
 
 - Barret Zoph\*, Golnaz Ghiasi\*, Tsung-Yi Lin\*, **Yin Cui**, Hanxiao Liu, Ekin D. Cubuk, Quoc V. Le. Rethinking Pre-training and Self-training. _**NeurIPS** 2020_ (**Oral**) [<a href="https://arxiv.org/abs/2006.06882">arXiv</a>] [<a href="https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/self_training">Code</a>]
