@@ -133,6 +133,11 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.com/citations?user=iP5m52IAAAAJ&hl=en"
 
   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/YinCui1"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/richardaecn"
